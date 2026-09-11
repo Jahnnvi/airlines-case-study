@@ -1,0 +1,4 @@
+dataset,accepted_records,rejected_records
+flights,1004,1
+bookings,924,76
+payments,863,137

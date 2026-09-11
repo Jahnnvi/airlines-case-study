@@ -1,0 +1,2 @@
+flight_id,airline,source,destination,departure_time,arrival_time,duration,duration_minutes,is_overnight,route,flight_instance_key,reject_reason,record_status,processed_at
+SJ192,SpiceJet,HYD,BOM,2026-04-19 18:45:42,2026-04-18 23:45:42,1899-12-29 05:00:00,-1140.0,False,HYD-BOM,SJ192_20260419184542,invalid_duration,rejected,2026-09-11 07:11:20.739575+00:00
